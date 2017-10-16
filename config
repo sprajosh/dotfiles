@@ -156,5 +156,5 @@ assign [class="[nN]autilus"] 8
 
 
 # Autostart applicativeTreeions after i3
-#exec --no-startup-id ./Downloads/firefox/firefox
-#exec --no-startup-id i3-sensible-terminal
+exec --no-startup-id ./Downloads/firefox/firefox
+exec --no-startup-id i3-sensible-terminal
