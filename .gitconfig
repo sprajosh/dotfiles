@@ -1,0 +1,6 @@
+[user]
+	email = sprajosh@gmail.com
+	name = Siddharth Prajosh
+
+[includeIf "gitdir:~/stayqrious/"]
+    path = ~/stayqrious/.gitconfig
